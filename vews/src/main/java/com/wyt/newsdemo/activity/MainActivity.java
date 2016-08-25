@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity
         initView();
         newsListPresenter.getLatestNewsList(channelId);
     }
-///
+
     @Override
     public void initVariable() {
         channelId="5572a108b3cdc86cf39001cd";
